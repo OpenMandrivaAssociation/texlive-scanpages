@@ -6,7 +6,7 @@
 # catalog-version 1.01
 Name:		texlive-scanpages
 Version:	1.01
-Release:	4
+Release:	5
 Summary:	Support importing and embellishing scanned documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scanpages
