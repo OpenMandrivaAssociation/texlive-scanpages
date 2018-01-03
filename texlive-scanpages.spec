@@ -1,12 +1,6 @@
-# revision 32673
-# category Package
-# catalog-ctan /macros/latex/contrib/scanpages
-# catalog-date 2014-01-11 00:28:51 +0100
-# catalog-license lppl1.3
-# catalog-version 1.01
 Name:		texlive-scanpages
-Version:	1.01
-Release:	5
+Version:	1.05a
+Release:	1
 Summary:	Support importing and embellishing scanned documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scanpages
@@ -33,12 +27,8 @@ scanned pages, only.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/scanpages/scanpages.sty
-%doc %{_texmfdistdir}/doc/latex/scanpages/README
-%doc %{_texmfdistdir}/doc/latex/scanpages/replicate.plist
-%doc %{_texmfdistdir}/doc/latex/scanpages/replicate.py
-%doc %{_texmfdistdir}/doc/latex/scanpages/scanpages-doc.pdf
-%doc %{_texmfdistdir}/doc/latex/scanpages/scanpages-doc.tex
+%{_texmfdistdir}/tex/latex/scanpages
+%doc %{_texmfdistdir}/doc/latex/scanpages
 
 #-----------------------------------------------------------------------
 %prep
