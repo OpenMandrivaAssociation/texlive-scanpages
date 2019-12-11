@@ -1,6 +1,6 @@
 Name:		texlive-scanpages
 Version:	1.05a
-Release:	1
+Release:	2
 Summary:	Support importing and embellishing scanned documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scanpages
