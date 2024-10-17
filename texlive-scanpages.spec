@@ -3,7 +3,7 @@ Version:	42633
 Release:	2
 Summary:	Support importing and embellishing scanned documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scanpages
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scanpages
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scanpages.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scanpages.doc.r%{version}.tar.xz
